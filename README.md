@@ -1,2 +1,30 @@
-# china-pc-ayx-com
-ayx - https://china-pc-ayx.com
+# AYX 官方网站 - china-pc-ayx.com
+
+欢迎访问 AYX 官方网站。本页面为您介绍关于 [china-pc-ayx.com](https://china-pc-ayx.com) 的基本信息、特点以及访问方式。
+
+## 简介
+
+[china-pc-ayx.com](https://china-pc-ayx.com) 是 AYX 的专用域名入口，旨在为用户提供便捷、稳定的访问体验。AYX 专注于数字娱乐与互动平台，通过该域名，用户可以快速获取相关服务与内容。
+
+## 特点
+
+- **专属域名**：`china-pc-ayx.com` 专为 AYX 用户设计，便于记忆和访问。
+- **稳定连接**：通过该域名访问 AYX，可获得稳定的网络连接体验。
+- **信息聚合**：网站整合了 AYX 的最新动态、功能说明与支持资源。
+
+## 访问方式
+
+您可以通过以下方式访问 AYX：
+
+- 直接在浏览器地址栏输入：`https://china-pc-ayx.com`
+- 通过搜索引擎查找关键词“AYX”或“china-pc-ayx.com”
+
+## 注意事项
+
+- 请确保您的网络环境安全，避免使用公共设备访问个人账户。
+- 如遇到访问问题，建议检查网络连接或尝试清除浏览器缓存。
+- 本域名仅用于提供 AYX 相关服务，不涉及任何违法违规内容。
+
+## 结语
+
+[china-pc-ayx.com](https://china-pc-ayx.com) 是 AYX 用户的可靠入口。如需了解更多，请直接访问该网站。感谢您的关注与使用。

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://budmax.github.io/china-pc-ayx-com/sitemap.xml
